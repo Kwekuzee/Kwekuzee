@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kwekuzee
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML, CSS,C, JAVASCRIPT and later reactjs and other frontend menthologists. 
+- 🌱 I’m currently learning HTML, CSS,C, JAVASCRIPT and later learn reactjs and other frontend menthologists. 
 - 💞️ I’m looking to collaborate with liked minded people on my journey to be a full stack developer in the near future ...
 - 📫 Reach me on twitter @CryberGunny..
 
